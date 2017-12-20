@@ -3,8 +3,6 @@ package com.lanou.action;
 import com.lanou.domain.Area;
 import com.lanou.domain.Server;
 
-
-import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +12,8 @@ import java.util.List;
  */
 public class CitySelectAction {
     public static void main(String[] args) {
-        System.out.println("崔国程添加的方法");
+        System.out.println("王树强添加的方法");
+        System.out.println("帅");
     }
     
     //    用来存储所有大区的集合
