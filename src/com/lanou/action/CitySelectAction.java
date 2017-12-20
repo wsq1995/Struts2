@@ -11,10 +11,7 @@ import java.util.List;
  * Created by dllo on 17/10/27.
  */
 public class CitySelectAction {
-    public static void main(String[] args) {
-        System.out.println("王树强添加的方法");
-        System.out.println("帅");
-    }
+    private String a;
     
     //    用来存储所有大区的集合
     private List<Area> areaList;
